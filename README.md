@@ -1,6 +1,7 @@
 # Automatic-Number-Plate-Detection
 
 * Problem Statement: In this challenge, the participant needs to build a robust automatic number plate recognition system that can detect moving vehicles in real-time traffic and extract the number plate (license plate) of the vehicles from multiple cameras (minimum 3 cameras).
+
 ![image](https://user-images.githubusercontent.com/95335025/180599651-ed9cae3b-8524-46b1-b7bd-178eadf48fe6.png)
 
 * Vehicle Types: - 1. Bus 2. Truck 3. Bike 4. Car 5. Auto Rickshaw
