@@ -1,4 +1,4 @@
-# Automatic-Number-Plate-Detection
+# Automatic Number Plate Detection
 
 * Problem Statement: In this challenge, the participant needs to build a robust automatic number plate recognition system that can detect moving vehicles in real-time traffic and extract the number plate (license plate) of the vehicles from multiple cameras (minimum 3 cameras).
 
